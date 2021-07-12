@@ -42,3 +42,23 @@ nav ul li a{
     font-size: 50px;
     margin: 250px;
 }
+.mwc{
+    height: 100px;
+    background: rgb(202, 196, 160);
+    display: flex;
+    padding-top: 60px;
+    padding-left: 30px;
+    font-size: 18px;
+}
+.seeProducts{
+    height: 30px;
+    background-color: rgb(70, 9, 9);
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    margin-left: 800px;
+}
+.seeProducts a{
+    text-decoration: none;
+    color: white;
+}
